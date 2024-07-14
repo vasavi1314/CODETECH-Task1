@@ -65,7 +65,8 @@ def calculator():
         print("Invalid input")
 calculator()<br>
 <h1>Output</h1>
-![image](https://github.com/user-attachments/assets/2d765dfa-53f2-436f-950d-6196e5af8a6b)
+<img src="![image](https://github.com/user-attachments/assets/e0dde2bf-5367-452a-a9b5-41103420cebc)"/>
+
 
 
 
