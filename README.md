@@ -102,6 +102,8 @@ calculator function manages the main loop of the program.<br>
 Prompts the user for the first number, operation, and second number.<br>
 Performs the chosen arithmetic operation.<br>
 Displays the result.<br>
+<h1><b>Conclusion</b></h1>
+The simple calculator project in Python serves as a practical example for learning basic programming concepts and the fundamentals of the Python language. This project not only demonstrates the implementation of essential arithmetic operations but also highlights crucial programming skills such as user input validation, error handling, and creating a user-friendly interface.
 
 
 
