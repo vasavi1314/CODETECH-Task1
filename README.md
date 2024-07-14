@@ -67,8 +67,7 @@ calculator()<br>
 <h1>Output</h1><br>
 ![image](https://github.com/user-attachments/assets/e0dde2bf-5367-452a-a9b5-41103420cebc)<br>
 <h1><b>Objective:</b></h1><br>
-The objective of this project is to design and develop a simple calculator using Python. This calculator will be capable of performing basic arithmetic operations such as addition, subtraction, multiplication, and division. The primary goals of this project are to:<br>
-
+The objective of this project is to design and develop a simple calculator using Python. This calculator will be capable of performing basic arithmetic operations such as addition, subtraction, multiplication, and division. The primary goals of this project are to:<br><br>
 Understand the Basics of Python Programming: Gain a foundational understanding of Python syntax, data types, and control structures.<br>
 Implement Arithmetic Operations: Develop functions to perform basic arithmetic operations and handle user inputs and outputs.<br>
 Create a User-Friendly Interface: Design a simple text-based interface that allows users to interact with the calculator easily.
