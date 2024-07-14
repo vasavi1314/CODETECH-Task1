@@ -87,6 +87,22 @@ Prompt for re-entry if invalid inputs are detected<br>
 
 Manage division by zero errors gracefully<br>
 Display appropriate error messages for invalid operations<br>
+<h1><b>Explanation:<b></b>h1>
+<b>Function Definitions:</b>
+
+add, subtract, multiply, and divide functions perform the respective arithmetic operations.<br>
+divide function includes error handling for division by zero.<br>
+<b>User Input Handling:</b>
+
+get_number function prompts the user for a number and includes validation to ensure the input is a valid number.<br>
+get_operation function prompts the user for an operation and ensures it is one of the allowed operations (+, -, *, /).<br>
+<b>Main Calculator Loop:</b>
+
+calculator function manages the main loop of the program.<br>
+Prompts the user for the first number, operation, and second number.<br>
+Performs the chosen arithmetic operation.<br>
+Displays the result.<br>
+
 
 
 
