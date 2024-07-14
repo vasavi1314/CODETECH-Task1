@@ -63,10 +63,10 @@ def calculator():
 
     else:
         print("Invalid input")
+calculator()<br>
+<h1>Output</h1>
+![image](https://github.com/user-attachments/assets/2d765dfa-53f2-436f-950d-6196e5af8a6b)
 
-
-# Run the calculator
-calculator()
 
 
 
