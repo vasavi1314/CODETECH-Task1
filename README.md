@@ -87,7 +87,7 @@ Prompt for re-entry if invalid inputs are detected<br>
 
 Manage division by zero errors gracefully<br>
 Display appropriate error messages for invalid operations<br>
-<h1><b>Explanation:<b></b>h1>
+<h1><b>Explanation:</b>h1><br>
 <b>Function Definitions:</b>
 
 add, subtract, multiply, and divide functions perform the respective arithmetic operations.<br>
