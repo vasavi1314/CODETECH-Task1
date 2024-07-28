@@ -65,7 +65,8 @@ def calculator():
         print("Invalid input")
 calculator()<br>
 <h1>Output</h1><br>
-![image](https://github.com/user-attachments/assets/f3ac7045-65ee-41b9-b816-714635ff7e0a)
+![image](https://github.com/user-attachments/assets/df3082ef-7da0-402c-82ba-7f6aa600857f)
+
 
 <h1><b>Objective:</b></h1><br>
 The objective of this project is to design and develop a simple calculator using Python. This calculator will be capable of performing basic arithmetic operations such as addition, subtraction, multiplication, and division. The primary goals of this project are to:<br><br>
