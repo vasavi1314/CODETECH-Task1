@@ -10,7 +10,7 @@
 <B>Mentor:</B>Srvavani Gouni<br>
 <h1>Project Overview</h1><br>
 <h2>Sample code:</h2>
-# Function to add two numbers
+<pre>
 def add(x, y):
     return x + y
 def subtract(x, y):
@@ -47,7 +47,8 @@ def calculator():
 
     else:
         print("Invalid input")
-calculator()<br>
+calculator()
+</pre>
 <h1>Output</h1><br>
 
 ![image](https://github.com/user-attachments/assets/df3082ef-7da0-402c-82ba-7f6aa600857f)
